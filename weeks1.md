@@ -1,10 +1,12 @@
 ### 4.1~4.7
 ---
-#### A
+#### Algorithm
 <a href="https://leetcode-cn.com/submissions/detail/16306160/">leetcode</a>
 
-#### R
+#### Review
 
-#### S
+#### Tip
 
-#### T
+#### Share
+
+
